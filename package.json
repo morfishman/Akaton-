@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node public/publisher.js"
+    "start": "node public/js/publisher.js"
   },
   "keywords": [],
   "author": "",
