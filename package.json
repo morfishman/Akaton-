@@ -6,16 +6,9 @@
   "scripts": {
     "start": "node public/publisher.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/morfishman/Akaton-.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/morfishman/Akaton-/issues"
-  },
-  "homepage": "https://github.com/morfishman/Akaton-#readme",
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.0.1",
