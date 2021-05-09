@@ -8,6 +8,9 @@ app.get('',(req,res) =>{
     res.render('mainPage.hbs')
 })
 
+app.get('/AKATON/game',(req,res) => {
+    res.render('gamePage.hbs')
+})
 
 app.listen(port, () => {
     console.log('server is ap on port ' + port)
